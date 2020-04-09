@@ -1,0 +1,6 @@
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\Claim\bin\Debug\Claim.exe.config
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\Claim\bin\Debug\Claim.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\Claim\bin\Debug\Claim.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\Claim\obj\Debug\Claim.csprojAssemblyReference.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\Claim\obj\Debug\Claim.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\Claim\obj\Debug\Claim.pdb

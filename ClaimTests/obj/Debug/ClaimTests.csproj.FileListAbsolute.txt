@@ -1,0 +1,16 @@
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\ClaimTests.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\ClaimTests.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Claim.exe
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Claim.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Claim.exe.config
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\obj\Debug\ClaimTests.csprojAssemblyReference.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\obj\Debug\ClaimTests.csproj.CopyComplete
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\obj\Debug\ClaimTests.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\GoldBadgeChallenges\02_Claim\ClaimTests\obj\Debug\ClaimTests.pdb
